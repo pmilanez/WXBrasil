@@ -1,0 +1,14 @@
+
+PODS: 
+- LRResty (0.11.0): 
+  - NSData+Base64 (~> 1.0)
+- NSData+Base64 (1.0.0)
+
+DEPENDENCIES: 
+- LRResty (~> 0.11.0)
+
+SPEC CHECKSUMS: 
+  LRResty: 8a51275030ac5bfc6c44775d64a16dc0f9267b8e
+  NSData+Base64: 8b910cb8a64f45daec6fb15936c36a9a911c57ca
+
+COCOAPODS: 0.14.0
