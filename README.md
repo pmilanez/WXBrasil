@@ -7,7 +7,7 @@ iOS Application to view Aviation Weather Information from Brazilian's WX Control
 
 API da REDEMET
 --------------
-[LINK][1]
+www.redemet.aer.mil.br/aux/consulta_msg_aut.php
 
  - **Argumento (local)**: Array de
    Localidades, FIR ou números sinóticos
@@ -46,6 +46,3 @@ MENSAGENS DISPONIBILIZADAS
  - tempestade
  - tornado
  - winten
-             
-
-  [1]: www.redemet.aer.mil.br/aux/consulta_msg_aut.php "www.redemet.aer.mil.br/aux/consulta_msg_aut.php"
